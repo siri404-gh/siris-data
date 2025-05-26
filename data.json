@@ -1,0 +1,50 @@
+[
+  {
+    "category": "Travel",
+    "graphs": [
+      {
+        "title": "🏄🏻‍♀️🏝️🏖️ Trips made",
+        "description": "This indicates the number of trips I have made nationally or internationally for leisure purposes. Ideal = 3/year.",
+        "data": [
+          [
+            { "month": "J", "value": 1 },
+            { "month": "F", "value": 0 },
+            { "month": "M", "value": 0 },
+            { "month": "A", "value": 0 },
+            { "month": "M", "value": 0 },
+            { "month": "J", "value": 0 },
+            { "month": "J", "value": 0 },
+            { "month": "A", "value": 0 },
+            { "month": "S", "value": 0 },
+            { "month": "O", "value": 0 },
+            { "month": "N", "value": 0 },
+            { "month": "D", "value": 1 }
+          ],
+          [
+            { "month": "J", "value": 1 },
+            { "month": "F", "value": 0 },
+            { "month": "M", "value": 0 },
+            { "month": "A", "value": 0 },
+            { "month": "M", "value": 0 },
+            { "month": "J", "value": 0 },
+            { "month": "J", "value": 0 },
+            { "month": "A", "value": 0 },
+            { "month": "S", "value": 0 },
+            { "month": "O", "value": 0 },
+            { "month": "N", "value": 2 },
+            { "month": "D", "value": 2 }
+          ],
+          [
+            { "month": "J", "value": 1 },
+            { "month": "F", "value": 1 },
+            { "month": "M", "value": 1 },
+            { "month": "A", "value": 1 },
+            { "month": "M", "value": 1 }
+          ]
+        ],
+        "color": "#0b57d0",
+        "type": "bar"
+      }
+    ]
+  }
+]
