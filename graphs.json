@@ -3,8 +3,8 @@
     "category": "Finances",
     "graphs": [
       {
-        "title": "🏦 Total Net Worth",
-        "description": "Assets (Liquid, Equity, RSU, Crypto etc) - Liabilities (Loans, Debts etc).",
+        "title": "🏦 Net Worth Growth",
+        "description": "Liquid, Equity, Pension, RSU, ISA, Crypto etc.",
         "data": [
           [
             { "month": "02", "value": 0 },
