@@ -3,8 +3,8 @@
     "category": "Finances",
     "graphs": [
       {
-        "title": "🏦 Net Worth Growth",
-        "description": "Liquid, Equity, Pension, RSU, ISA, Crypto etc.",
+        "title": "🏦 Investments Growth",
+        "description": "How my investments (Liquid, Equity, Pension, RSU, ISA, Crypto etc.) have grown over time.",
         "data": [
           [
             { "month": "02", "value": 0 },
