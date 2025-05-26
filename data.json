@@ -1,5 +1,43 @@
 [
   {
+    "category": "Finances",
+    "graphs": [
+      {
+        "title": "🏦 Total Net Worth",
+        "description": "Assets (Liquid, Equity, RSU, Crypto etc) - Liabilities (Loans, Debts etc).",
+        "data": [
+          [
+            { "month": "02", "value": 0 },
+            { "month": "03", "value": 0 },
+            { "month": "04", "value": 0 },
+            { "month": "05", "value": 0 },
+            { "month": "06", "value": 0 },
+            { "month": "07", "value": 0 },
+            { "month": "08", "value": 0 },
+            { "month": "09", "value": 0 },
+            { "month": "10", "value": 0 },
+            { "month": "11", "value": 0 },
+            { "month": "12", "value": 1 },
+            { "month": "13", "value": 3 }
+          ],
+          [
+            { "month": "14", "value": 5 },
+            { "month": "15", "value": 10 },
+            { "month": "16", "value": 20 },
+            { "month": "17", "value": 30 },
+            { "month": "18", "value": 40 },
+            { "month": "19", "value": 50 },
+            { "month": "20", "value": 60 },
+            { "month": "21", "value": 70 },
+            { "month": "22", "value": 90 },
+            { "month": "23", "value": 113 },
+            { "month": "24", "value": 160 },
+            { "month": "25", "value": 210 }
+          ]
+        ]
+      }
+    ]
+  {
     "category": "Travel",
     "graphs": [
       {
