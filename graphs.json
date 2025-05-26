@@ -34,7 +34,8 @@
             { "month": "24", "value": 160 },
             { "month": "25", "value": 210 }
           ]
-        ]
+        ],
+        "type": "line"
       }
     ]
   },
@@ -81,14 +82,12 @@
             { "month": "M", "value": 1 }
           ]
         ],
-        "color": "#0b57d0",
         "type": "bar"
       },
       {
         "title": "🏄🏻‍♀️🏝️🏖️ Countries visited",
         "description": "This is my Global footprint. So far, I have been to 16 countries mostly in Europe, Asia, and North America.",
         "data": ["GB", "IN", "AE", "FR", "NL", "DE", "IT", "ES", "TR", "BE", "CH", "SE", "VA", "GR", "US", "PL"],
-        "color": "#0b57d0",
         "type": "map"
       }
     ]
