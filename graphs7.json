@@ -510,6 +510,176 @@
         ]
     },
     {
+        "category": "Hobby",
+        "graphs": [
+            {
+                "title": "💼 Chess Rapid Progress",
+                "description": "This shows my progress in Data Structures and Algorithms (DSA) coding over the past 12 years. I have solved various problems and improved my skills.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 1
+                    },
+                    {
+                        "month": "15",
+                        "value": 2
+                    },
+                    {
+                        "month": "16",
+                        "value": 3
+                    },
+                    {
+                        "month": "17",
+                        "value": 4
+                    },
+                    {
+                        "month": "18",
+                        "value": 5
+                    },
+                    {
+                        "month": "19",
+                        "value": 6
+                    },
+                    {
+                        "month": "20",
+                        "value": 7
+                    },
+                    {
+                        "month": "21",
+                        "value": 8
+                    },
+                    {
+                        "month": "22",
+                        "value": 9
+                    },
+                    {
+                        "month": "23",
+                        "value": 10
+                    },
+                    {
+                        "month": "24",
+                        "value": 11
+                    },
+                    {
+                        "month": "25",
+                        "value": 12
+                    }
+                ],
+                "type": "area"
+            },
+            {
+                "title": "💼 Chess Blitz Progress",
+                "description": "This shows my progress in Frontend development over the past 12 years. I have worked with various technologies and frameworks.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 1
+                    },
+                    {
+                        "month": "15",
+                        "value": 2
+                    },
+                    {
+                        "month": "16",
+                        "value": 3
+                    },
+                    {
+                        "month": "17",
+                        "value": 4
+                    },
+                    {
+                        "month": "18",
+                        "value": 5
+                    },
+                    {
+                        "month": "19",
+                        "value": 6
+                    },
+                    {
+                        "month": "20",
+                        "value": 7
+                    },
+                    {
+                        "month": "21",
+                        "value": 8
+                    },
+                    {
+                        "month": "22",
+                        "value": 9
+                    },
+                    {
+                        "month": "23",
+                        "value": 10
+                    },
+                    {
+                        "month": "24",
+                        "value": 11
+                    },
+                    {
+                        "month": "25",
+                        "value": 12
+                    }
+                ],
+                "type": "area"
+            },
+            {
+                "title": "💼 Chess Bullet Progress",
+                "description": "This shows my progress in System Design over the past 12 years. I have learned various design patterns and architectural principles.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 1
+                    },
+                    {
+                        "month": "15",
+                        "value": 2
+                    },
+                    {
+                        "month": "16",
+                        "value": 3
+                    },
+                    {
+                        "month": "17",
+                        "value": 4
+                    },
+                    {
+                        "month": "18",
+                        "value": 5
+                    },
+                    {
+                        "month": "19",
+                        "value": 6
+                    },
+                    {
+                        "month": "20",
+                        "value": 7
+                    },
+                    {
+                        "month": "21",
+                        "value": 8
+                    },
+                    {
+                        "month": "22",
+                        "value": 9
+                    },
+                    {
+                        "month": "23",
+                        "value": 10
+                    },
+                    {
+                        "month": "24",
+                        "value": 11
+                    },
+                    {
+                        "month": "25",
+                        "value": 12
+                    }
+                ],
+                "type": "area"
+            }
+        ]
+    },
+    {
         "category": "Travel",
         "graphs": [
             {
