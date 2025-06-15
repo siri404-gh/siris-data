@@ -4,7 +4,7 @@
         "graphs": [
             {
                 "title": "🏦 VO2 Max",
-                "description": "How my VO2 max has progressed monthly over the past year. This reflects my cardiovascular fitness level. Higher values mean better endurance. Goal is to attain 50.",
+                "description": "How my VO2 max has progressed monthly over the past year.",
                 "data": [
                     {
                         "month": "14",
