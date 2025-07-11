@@ -1,0 +1,839 @@
+[
+    {
+        "category": "Health",
+        "graphs": [
+            {
+                "title": "🏦 VO2 Max",
+                "description": "How my VO2 max has progressed monthly over the past year.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 5
+                    },
+                    {
+                        "month": "15",
+                        "value": 6
+                    },
+                    {
+                        "month": "16",
+                        "value": 29
+                    },
+                    {
+                        "month": "17",
+                        "value": 41
+                    },
+                    {
+                        "month": "18",
+                        "value": 41
+                    },
+                    {
+                        "month": "19",
+                        "value": 75
+                    },
+                    {
+                        "month": "20",
+                        "value": 80
+                    },
+                    {
+                        "month": "21",
+                        "value": 95
+                    },
+                    {
+                        "month": "22",
+                        "value": 100
+                    },
+                    {
+                        "month": "23",
+                        "value": 100
+                    },
+                    {
+                        "month": "24",
+                        "value": 110
+                    },
+                    {
+                        "month": "25",
+                        "value": 200
+                    }
+                ],
+                "type": "area"
+            },
+            {
+                "title": "Average time asleep",
+                "description": "My Sleeping pattern over the past year. Goal is to sleep 7.5 (450 minutes) hours a day.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 5
+                    },
+                    {
+                        "month": "15",
+                        "value": 6
+                    },
+                    {
+                        "month": "16",
+                        "value": 29
+                    },
+                    {
+                        "month": "17",
+                        "value": 41
+                    },
+                    {
+                        "month": "18",
+                        "value": 41
+                    },
+                    {
+                        "month": "19",
+                        "value": 75
+                    },
+                    {
+                        "month": "20",
+                        "value": 80
+                    },
+                    {
+                        "month": "21",
+                        "value": 95
+                    },
+                    {
+                        "month": "22",
+                        "value": 100
+                    },
+                    {
+                        "month": "23",
+                        "value": 100
+                    },
+                    {
+                        "month": "24",
+                        "value": 110
+                    },
+                    {
+                        "month": "25",
+                        "value": 200
+                    }
+                ],
+                "type": "area"
+            },
+            {
+                "title": "Yoga Sessions",
+                "description": "Number of Yoga sessions I have taken every month in the past year. Goal is to hit 8/month.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 5
+                    },
+                    {
+                        "month": "15",
+                        "value": 6
+                    },
+                    {
+                        "month": "16",
+                        "value": 29
+                    },
+                    {
+                        "month": "17",
+                        "value": 41
+                    },
+                    {
+                        "month": "18",
+                        "value": 41
+                    },
+                    {
+                        "month": "19",
+                        "value": 75
+                    },
+                    {
+                        "month": "20",
+                        "value": 80
+                    },
+                    {
+                        "month": "21",
+                        "value": 95
+                    },
+                    {
+                        "month": "22",
+                        "value": 100
+                    },
+                    {
+                        "month": "23",
+                        "value": 100
+                    },
+                    {
+                        "month": "24",
+                        "value": 110
+                    },
+                    {
+                        "month": "25",
+                        "value": 200
+                    }
+                ],
+                "type": "area"
+            },
+            {
+                "title": "Workout Sessions",
+                "description": "Number of workout sessions I have taken every month in the past year. Goal is to hit 8/month.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 5
+                    },
+                    {
+                        "month": "15",
+                        "value": 6
+                    },
+                    {
+                        "month": "16",
+                        "value": 29
+                    },
+                    {
+                        "month": "17",
+                        "value": 41
+                    },
+                    {
+                        "month": "18",
+                        "value": 41
+                    },
+                    {
+                        "month": "19",
+                        "value": 75
+                    },
+                    {
+                        "month": "20",
+                        "value": 80
+                    },
+                    {
+                        "month": "21",
+                        "value": 95
+                    },
+                    {
+                        "month": "22",
+                        "value": 100
+                    },
+                    {
+                        "month": "23",
+                        "value": 100
+                    },
+                    {
+                        "month": "24",
+                        "value": 110
+                    },
+                    {
+                        "month": "25",
+                        "value": 200
+                    }
+                ],
+                "type": "line"
+            }
+        ]
+    },
+    {
+        "category": "Finance",
+        "graphs": [
+            {
+                "title": "🏦 Salary Growth",
+                "description": "How my salary has grown over the past 12 years.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 5
+                    },
+                    {
+                        "month": "15",
+                        "value": 6
+                    },
+                    {
+                        "month": "16",
+                        "value": 29
+                    },
+                    {
+                        "month": "17",
+                        "value": 41
+                    },
+                    {
+                        "month": "18",
+                        "value": 41
+                    },
+                    {
+                        "month": "19",
+                        "value": 75
+                    },
+                    {
+                        "month": "20",
+                        "value": 80
+                    },
+                    {
+                        "month": "21",
+                        "value": 95
+                    },
+                    {
+                        "month": "22",
+                        "value": 100
+                    },
+                    {
+                        "month": "23",
+                        "value": 100
+                    },
+                    {
+                        "month": "24",
+                        "value": 110
+                    },
+                    {
+                        "month": "25",
+                        "value": 200
+                    }
+                ],
+                "type": "bar"
+            },
+            {
+                "title": "🏦 Investments Growth",
+                "description": "How my investments have grown over time in years.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 5
+                    },
+                    {
+                        "month": "15",
+                        "value": 10
+                    },
+                    {
+                        "month": "16",
+                        "value": 20
+                    },
+                    {
+                        "month": "17",
+                        "value": 30
+                    },
+                    {
+                        "month": "18",
+                        "value": 40
+                    },
+                    {
+                        "month": "19",
+                        "value": 50
+                    },
+                    {
+                        "month": "20",
+                        "value": 60
+                    },
+                    {
+                        "month": "21",
+                        "value": 70
+                    },
+                    {
+                        "month": "22",
+                        "value": 90
+                    },
+                    {
+                        "month": "23",
+                        "value": 113
+                    },
+                    {
+                        "month": "24",
+                        "value": 160
+                    },
+                    {
+                        "month": "25",
+                        "value": 210
+                    }
+                ],
+                "type": "area"
+            }
+        ]
+    },
+    {
+        "category": "Career",
+        "graphs": [
+            {
+                "title": "💼 DSA Coding Progress",
+                "description": "This shows my progress in Data Structures and Algorithms (DSA) coding over the past 12 years. I have solved various problems and improved my skills.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 1
+                    },
+                    {
+                        "month": "15",
+                        "value": 2
+                    },
+                    {
+                        "month": "16",
+                        "value": 3
+                    },
+                    {
+                        "month": "17",
+                        "value": 4
+                    },
+                    {
+                        "month": "18",
+                        "value": 5
+                    },
+                    {
+                        "month": "19",
+                        "value": 6
+                    },
+                    {
+                        "month": "20",
+                        "value": 7
+                    },
+                    {
+                        "month": "21",
+                        "value": 8
+                    },
+                    {
+                        "month": "22",
+                        "value": 9
+                    },
+                    {
+                        "month": "23",
+                        "value": 10
+                    },
+                    {
+                        "month": "24",
+                        "value": 11
+                    },
+                    {
+                        "month": "25",
+                        "value": 12
+                    }
+                ],
+                "type": "area"
+            },
+            {
+                "title": "💼 Frontend Progress",
+                "description": "This shows my progress in Frontend development over the past 12 years. I have worked with various technologies and frameworks.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 1
+                    },
+                    {
+                        "month": "15",
+                        "value": 2
+                    },
+                    {
+                        "month": "16",
+                        "value": 3
+                    },
+                    {
+                        "month": "17",
+                        "value": 4
+                    },
+                    {
+                        "month": "18",
+                        "value": 5
+                    },
+                    {
+                        "month": "19",
+                        "value": 6
+                    },
+                    {
+                        "month": "20",
+                        "value": 7
+                    },
+                    {
+                        "month": "21",
+                        "value": 8
+                    },
+                    {
+                        "month": "22",
+                        "value": 9
+                    },
+                    {
+                        "month": "23",
+                        "value": 10
+                    },
+                    {
+                        "month": "24",
+                        "value": 11
+                    },
+                    {
+                        "month": "25",
+                        "value": 12
+                    }
+                ],
+                "type": "area"
+            },
+            {
+                "title": "💼 Backend System Design",
+                "description": "This shows my progress in System Design over the past 12 years. I have learned various design patterns and architectural principles.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 1
+                    },
+                    {
+                        "month": "15",
+                        "value": 2
+                    },
+                    {
+                        "month": "16",
+                        "value": 3
+                    },
+                    {
+                        "month": "17",
+                        "value": 4
+                    },
+                    {
+                        "month": "18",
+                        "value": 5
+                    },
+                    {
+                        "month": "19",
+                        "value": 6
+                    },
+                    {
+                        "month": "20",
+                        "value": 7
+                    },
+                    {
+                        "month": "21",
+                        "value": 8
+                    },
+                    {
+                        "month": "22",
+                        "value": 9
+                    },
+                    {
+                        "month": "23",
+                        "value": 10
+                    },
+                    {
+                        "month": "24",
+                        "value": 11
+                    },
+                    {
+                        "month": "25",
+                        "value": 12
+                    }
+                ],
+                "type": "area"
+            }
+        ]
+    },
+    {
+        "category": "Hobby",
+        "graphs": [
+            {
+                "title": "💼 Chess Rapid Progress",
+                "description": "This shows my progress in Data Structures and Algorithms (DSA) coding over the past 12 years. I have solved various problems and improved my skills.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 1
+                    },
+                    {
+                        "month": "15",
+                        "value": 2
+                    },
+                    {
+                        "month": "16",
+                        "value": 3
+                    },
+                    {
+                        "month": "17",
+                        "value": 4
+                    },
+                    {
+                        "month": "18",
+                        "value": 5
+                    },
+                    {
+                        "month": "19",
+                        "value": 6
+                    },
+                    {
+                        "month": "20",
+                        "value": 7
+                    },
+                    {
+                        "month": "21",
+                        "value": 8
+                    },
+                    {
+                        "month": "22",
+                        "value": 9
+                    },
+                    {
+                        "month": "23",
+                        "value": 10
+                    },
+                    {
+                        "month": "24",
+                        "value": 11
+                    },
+                    {
+                        "month": "25",
+                        "value": 12
+                    }
+                ],
+                "type": "area"
+            },
+            {
+                "title": "💼 Chess Blitz Progress",
+                "description": "This shows my progress in Frontend development over the past 12 years. I have worked with various technologies and frameworks.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 1
+                    },
+                    {
+                        "month": "15",
+                        "value": 2
+                    },
+                    {
+                        "month": "16",
+                        "value": 3
+                    },
+                    {
+                        "month": "17",
+                        "value": 4
+                    },
+                    {
+                        "month": "18",
+                        "value": 5
+                    },
+                    {
+                        "month": "19",
+                        "value": 6
+                    },
+                    {
+                        "month": "20",
+                        "value": 7
+                    },
+                    {
+                        "month": "21",
+                        "value": 8
+                    },
+                    {
+                        "month": "22",
+                        "value": 9
+                    },
+                    {
+                        "month": "23",
+                        "value": 10
+                    },
+                    {
+                        "month": "24",
+                        "value": 11
+                    },
+                    {
+                        "month": "25",
+                        "value": 12
+                    }
+                ],
+                "type": "area"
+            },
+            {
+                "title": "💼 Chess Bullet Progress",
+                "description": "This shows my progress in System Design over the past 12 years. I have learned various design patterns and architectural principles.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 1
+                    },
+                    {
+                        "month": "15",
+                        "value": 2
+                    },
+                    {
+                        "month": "16",
+                        "value": 3
+                    },
+                    {
+                        "month": "17",
+                        "value": 4
+                    },
+                    {
+                        "month": "18",
+                        "value": 5
+                    },
+                    {
+                        "month": "19",
+                        "value": 6
+                    },
+                    {
+                        "month": "20",
+                        "value": 7
+                    },
+                    {
+                        "month": "21",
+                        "value": 8
+                    },
+                    {
+                        "month": "22",
+                        "value": 9
+                    },
+                    {
+                        "month": "23",
+                        "value": 10
+                    },
+                    {
+                        "month": "24",
+                        "value": 11
+                    },
+                    {
+                        "month": "25",
+                        "value": 12
+                    }
+                ],
+                "type": "area"
+            }
+        ]
+    },
+    {
+        "category": "Travel",
+        "graphs": [
+            {
+                "title": "🏄🏻‍♀️🏝️🏖️ Trips made",
+                "description": "This indicates the number of trips I have made nationally or internationally for leisure purposes. Ideal = 3/year.",
+                "data": [
+                    [
+                        {
+                            "month": "J",
+                            "value": 1
+                        },
+                        {
+                            "month": "F",
+                            "value": 0
+                        },
+                        {
+                            "month": "M",
+                            "value": 0
+                        },
+                        {
+                            "month": "A",
+                            "value": 0
+                        },
+                        {
+                            "month": "M",
+                            "value": 0
+                        },
+                        {
+                            "month": "J",
+                            "value": 0
+                        },
+                        {
+                            "month": "J",
+                            "value": 0
+                        },
+                        {
+                            "month": "A",
+                            "value": 0
+                        },
+                        {
+                            "month": "S",
+                            "value": 0
+                        },
+                        {
+                            "month": "O",
+                            "value": 0
+                        },
+                        {
+                            "month": "N",
+                            "value": 0
+                        },
+                        {
+                            "month": "D",
+                            "value": 1
+                        }
+                    ],
+                    [
+                        {
+                            "month": "J",
+                            "value": 1
+                        },
+                        {
+                            "month": "F",
+                            "value": 0
+                        },
+                        {
+                            "month": "M",
+                            "value": 0
+                        },
+                        {
+                            "month": "A",
+                            "value": 0
+                        },
+                        {
+                            "month": "M",
+                            "value": 0
+                        },
+                        {
+                            "month": "J",
+                            "value": 0
+                        },
+                        {
+                            "month": "J",
+                            "value": 0
+                        },
+                        {
+                            "month": "A",
+                            "value": 0
+                        },
+                        {
+                            "month": "S",
+                            "value": 0
+                        },
+                        {
+                            "month": "O",
+                            "value": 0
+                        },
+                        {
+                            "month": "N",
+                            "value": 2
+                        },
+                        {
+                            "month": "D",
+                            "value": 2
+                        }
+                    ],
+                    [
+                        {
+                            "month": "J",
+                            "value": 1
+                        },
+                        {
+                            "month": "F",
+                            "value": 1
+                        },
+                        {
+                            "month": "M",
+                            "value": 1
+                        },
+                        {
+                            "month": "A",
+                            "value": 1
+                        },
+                        {
+                            "month": "M",
+                            "value": 1
+                        }
+                    ]
+                ],
+                "type": "bar"
+            },
+            {
+                "title": "🏄🏻‍♀️🏝️🏖️ Countries visited",
+                "description": "This is my Global footprint. So far, I have been to 16 countries mostly in Europe, Asia, and North America.",
+                "data": [
+                    "GB",
+                    "IN",
+                    "AE",
+                    "FR",
+                    "NL",
+                    "DE",
+                    "IT",
+                    "ES",
+                    "TR",
+                    "BE",
+                    "CH",
+                    "SE",
+                    "VA",
+                    "GR",
+                    "US",
+                    "PL"
+                ],
+                "type": "map"
+            }
+        ]
+    }
+]
