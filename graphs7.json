@@ -55,7 +55,7 @@
                         "value": 200
                     }
                 ],
-                "type": "bar"
+                "type": "line"
             }
         ]
     }
