@@ -56,6 +56,60 @@
                     }
                 ],
                 "type": "line"
+            },
+            {
+                "title": "💹 Investment Portfolio Growth",
+                "description": "Growth of my investment portfolio across different asset classes over the years.",
+                "data": [
+                    {
+                        "month": "14",
+                        "value": 7
+                    },
+                    {
+                        "month": "15",
+                        "value": 10
+                    },
+                    {
+                        "month": "16",
+                        "value": 15
+                    },
+                    {
+                        "month": "17",
+                        "value": 22
+                    },
+                    {
+                        "month": "18",
+                        "value": 30
+                    },
+                    {
+                        "month": "19",
+                        "value": 45
+                    },
+                    {
+                        "month": "20",
+                        "value": 60
+                    },
+                    {
+                        "month": "21",
+                        "value": 75
+                    },
+                    {
+                        "month": "22",
+                        "value": 105
+                    },
+                    {
+                        "month": "23",
+                        "value": 113
+                    },
+                    {
+                        "month": "24",
+                        "value": 160
+                    },
+                    {
+                        "month": "25",
+                        "value": 210
+                    }
+                ]
             }
         ]
     }
